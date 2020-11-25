@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-camel-jdbc-restfulapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 844011
+Implementation-Vendor-Id: com.cts
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-camel-jdbc-restfulapi
+Created-By: Maven Integration for Eclipse
+
